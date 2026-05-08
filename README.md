@@ -80,7 +80,9 @@ Several small airports exhibited high charter reliance and unstable demand patte
 Forecasts were developed using:
 - ARIMA
 - Prophet
-<img width="3000" height="1800" alt="airport_growth_analysis" src="https://github.com/user-attachments/assets/3f85628d-8087-4787-9fb2-05a82d13bbe0" />
+
+  <img width="3000" height="1800" alt="forecast_chart" src="https://github.com/user-attachments/assets/2cbb2105-e8df-4bcd-8bf7-38cd0b39b328" />
+
 
 Validation metrics included:
 - RMSE
