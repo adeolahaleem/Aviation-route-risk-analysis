@@ -34,7 +34,7 @@ UK airports require accurate passenger forecasting and route risk analysis to su
 | Forecasting | Prophet, ARIMA |
 | Visualisation | Matplotlib, Seaborn |
 | BI Tool | Power BI |
-| Querying | SQL |
+| Querying | Jupyter Notebook |
 | Version Control | Git/GitHub |
 
 ---
@@ -64,6 +64,8 @@ Medium-sized airports demonstrated stronger recovery trends than large hub airpo
 
 <img width="2100" height="2100" alt="risk_distribution" src="https://github.com/user-attachments/assets/354d4d31-26ac-4f87-8d9c-1a7766cdc846" />
 
+Airports where a single route represented more than 50% of total passenger demand were flagged as high-risk.
+
 <img width="2400" height="1500" alt="route_dependency_heatmap" src="https://github.com/user-attachments/assets/43e83bc2-8120-452b-b4ec-96cc74279aa6" />
 
 ## Charter Dependency Increases Volatility
@@ -80,6 +82,8 @@ Several small airports exhibited high charter reliance and unstable demand patte
 Forecasts were developed using:
 - ARIMA
 - Prophet
+  
+Prophet models demonstrated stronger performance in volatile regional airport demand scenarios, while ARIMA models performed effectively for stable long-term trend forecasting
 
   <img width="3000" height="1800" alt="forecast_chart" src="https://github.com/user-attachments/assets/2cbb2105-e8df-4bcd-8bf7-38cd0b39b328" />
 
