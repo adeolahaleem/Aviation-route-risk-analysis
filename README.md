@@ -93,9 +93,9 @@ Validation metrics included:
 #Dashboard
 
 ## Power BI Dashboard Overview
-<img width="3000" height="1800" alt="forecast_chart" src="https://github.com/user-attachments/assets/805685a5-08ba-4df2-af1c-bd762d46501f" />
 
-(Add dashboard screenshots here later)
+
+(Adding dashboard screenshots here later)
 
 ---
 
