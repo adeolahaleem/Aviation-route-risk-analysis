@@ -53,19 +53,27 @@ UK airports require accurate passenger forecasting and route risk analysis to su
 
 ## Medium Airports Show Strongest Growth Potential
 
+<img width="3000" height="1800" alt="airport_growth_analysis" src="https://github.com/user-attachments/assets/58665ecf-ea11-4f3c-bfc0-2afdce79f33a" />
+
 Medium-sized airports demonstrated stronger recovery trends than large hub airports.
 
 ## Route Concentration Creates Operational Risk
 
+<img width="2100" height="2100" alt="risk_distribution" src="https://github.com/user-attachments/assets/354d4d31-26ac-4f87-8d9c-1a7766cdc846" />
+
+<img width="2400" height="1500" alt="route_dependency_heatmap" src="https://github.com/user-attachments/assets/43e83bc2-8120-452b-b4ec-96cc74279aa6" />
 44% of domestic routes showed high dependency risk.
 
 ## Charter Dependency Increases Volatility
+
+<img width="2700" height="1800" alt="scheduled_vs_charter" src="https://github.com/user-attachments/assets/7c1198fe-6e31-441a-b13a-1892932198e4" />
 
 Several small airports exhibited high charter reliance and unstable demand patterns.
 
 ---
 
 # Forecasting Approach
+<img width="3000" height="1800" alt="airport_growth_analysis" src="https://github.com/user-attachments/assets/3f85628d-8087-4787-9fb2-05a82d13bbe0" />
 
 Forecasts were developed using:
 - ARIMA
@@ -80,6 +88,7 @@ Validation metrics included:
 #Dashboard
 
 ## Power BI Dashboard Overview
+<img width="3000" height="1800" alt="forecast_chart" src="https://github.com/user-attachments/assets/805685a5-08ba-4df2-af1c-bd762d46501f" />
 
 (Add dashboard screenshots here later)
 
@@ -98,11 +107,12 @@ Validation metrics included:
 
 ```text
 uk-aviation-demand-forecasting/
-│
-├── data/
-├── notebooks/
-├── scripts/
-├── sql/
-├── dashboard/
-├── visuals/
-└── README.md
+
+data/
+notebooks/
+scripts/
+sql/
+dashboard/
+visuals/
+README.
+
