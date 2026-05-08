@@ -32,8 +32,7 @@ UK airports require accurate passenger forecasting and route risk analysis to su
 |---|---|
 | Programming | Python |
 | Forecasting | Prophet, ARIMA |
-| Visualisation | Matplotlib, Seaborn |
-| BI Tool | Power BI |
+| Visualisation | Jupyter Notebook |
 | Querying | Jupyter Notebook |
 | Version Control | Git/GitHub |
 
