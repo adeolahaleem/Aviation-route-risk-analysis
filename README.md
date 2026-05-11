@@ -116,11 +116,9 @@ Validation metrics included:
 ```text
 uk-aviation-demand-forecasting/
 
-data/
+CAA data/
 notebooks/
-scripts/
-sql/
-dashboard/
+presentation/
 visuals/
-README.
+README.md
 
